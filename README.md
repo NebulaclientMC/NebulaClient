@@ -1,5 +1,5 @@
 
-# NebulaClient
+# Nebula Client
 
 An enhanced Minecraft Modpack for 1.8.9
 
